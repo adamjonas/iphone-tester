@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_id</key>
+	<string>50eaeda5975c332a0f000829</string>
+	<key>cache_duration</key>
+	<integer>3600</integer>
+	<key>collect_crash_reports</key>
+	<string>true</string>
+	<key>collect_on_simulator</key>
+	<string>true</string>
+	<key>collect_udids</key>
+	<string>true</string>
+	<key>crash_submission_url</key>
+	<string>https://reports.crashlytics.com/api/v1/2fa6302c3e528319c2fd8f4c233d688012b78633/ios/crashes.plist</string>
+	<key>enable_interactive_prompt</key>
+	<string>false</string>
+	<key>enable_ssl</key>
+	<string>true</string>
+	<key>identifier_mask</key>
+	<integer>255</integer>
+	<key>log_buffer_size</key>
+	<integer>64000</integer>
+	<key>max_chained_exception_depth</key>
+	<integer>16</integer>
+	<key>max_custom_exception_events</key>
+	<integer>64</integer>
+	<key>max_custom_key_value_pairs</key>
+	<integer>64</integer>
+	<key>prompt_always_send_button_title</key>
+	<string>Always Send</string>
+	<key>prompt_cancel_button_title</key>
+	<string>Don't Send</string>
+	<key>prompt_message</key>
+	<string>Looks like we crashed! Please help us fix the problem by sending a crash report.</string>
+	<key>prompt_send_button_title</key>
+	<string>Send</string>
+	<key>prompt_show_always_send_button</key>
+	<string>true</string>
+	<key>prompt_show_cancel_button</key>
+	<string>true</string>
+	<key>prompt_title</key>
+	<string>Send Crash Report?</string>
+	<key>send_session_without_crash</key>
+	<string>true</string>
+	<key>validUntil</key>
+	<date>2013-05-22T15:06:46Z</date>
+</dict>
+</plist>

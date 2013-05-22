@@ -1,0 +1,305 @@
+4 $ -[VNAppDelegate applicationDidBecomeActive:] line 138 $ FBSession state: 0
+566 $ -[VNAppDelegate promptForLocationServices] line 157 $ Device has been prompted for location services previously
+576 $ __37-[VNAPIManager checkForNotifications]_block_invoke line 314 $ No new notifications
+702 $ -[VNFeedTableViewController updatePlayer] line 613 $ most visible cell url: http://vines.s3.amazonaws.com/v/videos/E59DC0D1-A97A-453F-9D08-EF842ADB7DB6-10791-000001D43563FFFF_1.1.1.mp4?versionId=hWTQuYM7imIHefp319BmqTGMqjiV5uxX
+2078 $ __21-[VNVideoPlayer play]_block_invoke_2 line 210 $ active players: 1
+9637 $ -[VNFeedTableViewController viewWillDisappear:] line 243 $ feed will disappear
+9731 $ -[VNVideoCapture reorientVideoOutput:flipped:] line 355 $ Device model: iPhone5,1
+9873 $ __30-[VNVideoPlayer releasePlayer]_block_invoke_2 line 717 $ active players: 0
+11312 $ -[VNVideoCapture sessionStarted:] line 995 $ session started
+11328 $ -[VNFeedTableViewController viewDidDisappear:] line 256 $ feed did disappear
+11338 $ -[VNVideoCapture startRecording] line 547 $ startRecording: 0.00
+11364 $ -[VNVideoCapture stopRecording] line 570 $ stopRecording: 0.01
+11366 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1053 $ pause audio recording
+11376 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+11400 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+11401 $ -[VNVideoCapture handleVideoSampleBuffer:] line 1207 $ pause video recording
+11424 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+11446 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+11470 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+11493 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+11498 $ -[VNVideoCapture startRecording] line 547 $ startRecording: 0.01
+14097 $ -[VNVideoCapture stopRecording] line 570 $ stopRecording: 2.63
+14108 $ -[VNVideoCapture handleVideoSampleBuffer:] line 1207 $ pause video recording
+14117 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1053 $ pause audio recording
+14141 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14164 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14191 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14210 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14233 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14257 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14280 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14303 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14326 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+14373 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1182 $ capture last audio sample for crossfade
+14535 $ -[VNVideoCapture finishRecording] line 619 $ finishRecording
+14535 $ -[VNVideoCapture finishRecording] line 624 $ appending last audio sample
+14536 $ -[VNVideoCapture finishRecording] line 628 $ done appending last audio sample
+14536 $ -[VNVideoCapture finishRecording] line 632 $ start emptying current audio buffer to equal start buffer
+14536 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14536 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14536 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14536 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14536 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14537 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14538 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14538 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14538 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14538 $ -[VNVideoCapture finishRecording] line 635 $ emptying current audio buffer to equal start buffer
+14538 $ -[VNVideoCapture finishRecording] line 643 $ end emptying current audio buffer to equal start buffer
+14538 $ -[VNVideoCapture finishRecording] line 644 $ start emptying start buffer to equal current audio buffer
+14538 $ -[VNVideoCapture finishRecording] line 649 $ end emptying start buffer to equal current audio buffer
+14538 $ -[VNVideoCapture finishRecording] line 654 $ num audio buffers to crossfade: 0
+14538 $ -[VNVideoCapture finishRecording] line 702 $ clear current and start audio buffers
+14538 $ -[VNVideoCapture finishRecording] line 707 $ dispatch call delegate videoCaptureRecordingFinished
+14538 $ __33-[VNVideoCapture finishRecording]_block_invoke line 711 $ delegate videoCaptureRecordingFinished
+14540 $ -[VNVideoCapture finishRecording] line 716 $ call writeToFile in background
+14540 $ -[VNVideoCapture writeToFile] line 721 $ writeToFile
+14540 $ -[VNVideoCapture writeToFile] line 724 $ marking video writer as finished
+14541 $ -[VNVideoCapture writeToFile] line 729 $ finish writing asset w/ completion handler
+14547 $ -[VNVideoCapture writeToFile] line 743 $ stop running capture session
+14588 $ __29-[VNVideoCapture writeToFile]_block_invoke line 731 $ finish writing asset completion handler
+15062 $ -[VNVideoCapture sessionStopped:] line 999 $ session stopped
+15062 $ -[VNVideoCapture finishWriteToFile] line 867 $ finishWriteToFile
+15062 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+15062 $ -[VNVideoCapture finishWriteToFile] line 869 $ dispatch call delegate videoCaptureWriteToFileComplete
+15062 $ __35-[VNVideoCapture finishWriteToFile]_block_invoke line 873 $ delegate videoCaptureWriteToFileComplete
+15063 $ -[VNCaptureViewController previewAndBeginUpload] line 506 $ previewAndBeginUpload: /private/var/mobile/Applications/05F28061-7243-4F53-8A9B-0A74D20AC858/tmp/temp_record_1369231615.223186.mp4
+15099 $ -[VNCaptureViewController previewAndBeginUpload] line 512 $ movie player loadState: 0 --- playbackState: 0
+15099 $ -[VNCaptureViewController generateThumbnail] line 517 $ generating thumbnail loadState: 0 --- playbackState: 0
+15172 $ -[VNCaptureViewController generateThumbnail] line 519 $ thumbnail generated: <UIImage: 0x1d52b1a0>
+15172 $ -[VNCaptureViewController generateThumbnail] line 533 $ thumbnail generated
+15192 $ -[VNUploadOperation start] line 90 $ <VNUploadOperation: 0x1d5dbcb0> - Starting upload
+15735 $ -[VNVideoCapture saveToPhotoAlbum] line 880 $ saveToPhotoAlbum
+15761 $ -[VNVideoCapture saveToPhotoAlbum] line 883 $ save to photo album: /private/var/mobile/Applications/05F28061-7243-4F53-8A9B-0A74D20AC858/tmp/temp_record_1369231615.223186.mp4
+15941 $ __26-[VNUploadOperation start]_block_invoke192 line 110 $ <VNUploadOperation: 0x1d5dbcb0> - Saved video successfully
+16113 $ __26-[VNUploadOperation start]_block_invoke205 line 120 $ <VNUploadOperation: 0x1d5dbcb0> - Saved thumbnail successfully
+16291 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+122645 $ -[VNAppDelegate applicationDidBecomeActive:] line 138 $ FBSession state: 0
+144565 $ -[VNUploadOperation cancel] line 281 $ <VNUploadOperation: 0x1d5dbcb0> - Cancelling upload
+144566 $ -[VNUploadManager removePendingPost:] line 396 $ Trying to depersist pending post (null)
+144583 $ -[VNAppDelegate promptForLocationServices] line 157 $ Device has been prompted for location services previously
+145178 $ -[VNFeedTableViewController updatePlayer] line 613 $ most visible cell url: http://vines.s3.amazonaws.com/v/videos/E59DC0D1-A97A-453F-9D08-EF842ADB7DB6-10791-000001D43563FFFF_1.1.1.mp4?versionId=hWTQuYM7imIHefp319BmqTGMqjiV5uxX
+145434 $ __21-[VNVideoPlayer play]_block_invoke_2 line 210 $ active players: 1
+146695 $ -[VNFeedTableViewController viewWillDisappear:] line 243 $ feed will disappear
+146747 $ -[VNVideoCapture reorientVideoOutput:flipped:] line 355 $ Device model: iPhone5,1
+146906 $ __30-[VNVideoPlayer releasePlayer]_block_invoke_2 line 717 $ active players: 0
+148322 $ -[VNVideoCapture sessionStarted:] line 995 $ session started
+148334 $ -[VNFeedTableViewController viewDidDisappear:] line 256 $ feed did disappear
+148748 $ -[VNVideoCapture startRecording] line 547 $ startRecording: 0.00
+152246 $ -[VNVideoCapture stopRecording] line 570 $ stopRecording: 3.48
+152268 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1053 $ pause audio recording
+152281 $ -[VNVideoCapture handleVideoSampleBuffer:] line 1207 $ pause video recording
+152291 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152314 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152338 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152361 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152384 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152412 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152431 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152454 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152479 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+152524 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1182 $ capture last audio sample for crossfade
+153150 $ -[VNVideoCapture finishRecording] line 619 $ finishRecording
+153150 $ -[VNVideoCapture finishRecording] line 624 $ appending last audio sample
+153150 $ -[VNVideoCapture finishRecording] line 628 $ done appending last audio sample
+153150 $ -[VNVideoCapture finishRecording] line 632 $ start emptying current audio buffer to equal start buffer
+153150 $ -[VNVideoCapture finishRecording] line 643 $ end emptying current audio buffer to equal start buffer
+153150 $ -[VNVideoCapture finishRecording] line 644 $ start emptying start buffer to equal current audio buffer
+153150 $ -[VNVideoCapture finishRecording] line 649 $ end emptying start buffer to equal current audio buffer
+153150 $ -[VNVideoCapture finishRecording] line 654 $ num audio buffers to crossfade: 10
+153150 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 0
+153150 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 1
+153150 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 2
+153150 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 3
+153151 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 4
+153151 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 5
+153151 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 6
+153151 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 7
+153151 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 8
+153151 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 9
+153151 $ -[VNVideoCapture finishRecording] line 702 $ clear current and start audio buffers
+153151 $ -[VNVideoCapture finishRecording] line 707 $ dispatch call delegate videoCaptureRecordingFinished
+153151 $ -[VNVideoCapture finishRecording] line 716 $ call writeToFile in background
+153151 $ __33-[VNVideoCapture finishRecording]_block_invoke line 711 $ delegate videoCaptureRecordingFinished
+153152 $ -[VNVideoCapture writeToFile] line 721 $ writeToFile
+153152 $ -[VNVideoCapture writeToFile] line 724 $ marking video writer as finished
+153152 $ -[VNVideoCapture writeToFile] line 729 $ finish writing asset w/ completion handler
+153154 $ -[VNVideoCapture writeToFile] line 743 $ stop running capture session
+153204 $ __29-[VNVideoCapture writeToFile]_block_invoke line 731 $ finish writing asset completion handler
+153656 $ -[VNVideoCapture sessionStopped:] line 999 $ session stopped
+153656 $ -[VNVideoCapture finishWriteToFile] line 867 $ finishWriteToFile
+153656 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+153657 $ -[VNVideoCapture finishWriteToFile] line 869 $ dispatch call delegate videoCaptureWriteToFileComplete
+153657 $ __35-[VNVideoCapture finishWriteToFile]_block_invoke line 873 $ delegate videoCaptureWriteToFileComplete
+153657 $ -[VNCaptureViewController previewAndBeginUpload] line 506 $ previewAndBeginUpload: /private/var/mobile/Applications/05F28061-7243-4F53-8A9B-0A74D20AC858/tmp/temp_record_1369231752.244080.mp4
+153678 $ -[VNCaptureViewController previewAndBeginUpload] line 512 $ movie player loadState: 0 --- playbackState: 0
+153678 $ -[VNCaptureViewController generateThumbnail] line 517 $ generating thumbnail loadState: 0 --- playbackState: 0
+153739 $ -[VNCaptureViewController generateThumbnail] line 519 $ thumbnail generated: <UIImage: 0x1e89d570>
+153740 $ -[VNCaptureViewController generateThumbnail] line 533 $ thumbnail generated
+153756 $ -[VNUploadOperation start] line 90 $ <VNUploadOperation: 0x1e826b30> - Starting upload
+159064 $ __26-[VNUploadOperation start]_block_invoke192 line 110 $ <VNUploadOperation: 0x1e826b30> - Saved video successfully
+159322 $ __26-[VNUploadOperation start]_block_invoke205 line 120 $ <VNUploadOperation: 0x1e826b30> - Saved thumbnail successfully
+242757 $ -[VNAppDelegate applicationDidBecomeActive:] line 138 $ FBSession state: 0
+299977 $ -[VNAPIManager checkForNotifications] line 303 $ Checking for notifications
+299979 $ -[VNAPIManager request:endpoint:parameters:authIfNeeded:success:error:failed:encoding:] line 550 $ >>> http GET https://api.vineapp.com/users/948713618134953984/pendingNotificationsCount  vine-session-id:948713618134953984-00251b78-3bb1-4aa3-849f-b26f08f7a5b3
+300240 $ __37-[VNAPIManager checkForNotifications]_block_invoke line 314 $ No new notifications
+326014 $ -[VNUploadOperation cancel] line 281 $ <VNUploadOperation: 0x1e826b30> - Cancelling upload
+326015 $ -[VNUploadManager removePendingPost:] line 396 $ Trying to depersist pending post (null)
+326029 $ -[VNAppDelegate promptForLocationServices] line 157 $ Device has been prompted for location services previously
+326336 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+326357 $ -[VNFeedTableViewController updatePlayer] line 613 $ most visible cell url: http://vines.s3.amazonaws.com/v/videos/E59DC0D1-A97A-453F-9D08-EF842ADB7DB6-10791-000001D43563FFFF_1.1.1.mp4?versionId=hWTQuYM7imIHefp319BmqTGMqjiV5uxX
+326553 $ __21-[VNVideoPlayer play]_block_invoke_2 line 210 $ active players: 1
+340734 $ -[VNFeedTableViewController viewWillDisappear:] line 243 $ feed will disappear
+340790 $ -[VNVideoCapture reorientVideoOutput:flipped:] line 355 $ Device model: iPhone5,1
+340952 $ __30-[VNVideoPlayer releasePlayer]_block_invoke_2 line 717 $ active players: 0
+342378 $ -[VNVideoCapture sessionStarted:] line 995 $ session started
+342397 $ -[VNFeedTableViewController viewDidDisappear:] line 256 $ feed did disappear
+344132 $ -[VNVideoCapture startRecording] line 547 $ startRecording: 0.00
+345764 $ -[VNVideoCapture stopRecording] line 570 $ stopRecording: 1.63
+345782 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1053 $ pause audio recording
+345801 $ -[VNVideoCapture handleVideoSampleBuffer:] line 1207 $ pause video recording
+345805 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345828 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345851 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345875 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345898 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345926 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345945 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345967 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+345991 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+346037 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1182 $ capture last audio sample for crossfade
+347548 $ -[VNVideoCapture startRecording] line 547 $ startRecording: 1.63
+348731 $ -[VNVideoCapture stopRecording] line 570 $ stopRecording: 2.81
+348731 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1053 $ pause audio recording
+348757 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348758 $ -[VNVideoCapture handleVideoSampleBuffer:] line 1207 $ pause video recording
+348777 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348800 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348823 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348847 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348870 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348893 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348923 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348939 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+348986 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1182 $ capture last audio sample for crossfade
+349311 $ -[VNVideoCapture finishRecording] line 619 $ finishRecording
+349311 $ -[VNVideoCapture finishRecording] line 624 $ appending last audio sample
+349312 $ -[VNVideoCapture finishRecording] line 628 $ done appending last audio sample
+349312 $ -[VNVideoCapture finishRecording] line 632 $ start emptying current audio buffer to equal start buffer
+349312 $ -[VNVideoCapture finishRecording] line 643 $ end emptying current audio buffer to equal start buffer
+349312 $ -[VNVideoCapture finishRecording] line 644 $ start emptying start buffer to equal current audio buffer
+349312 $ -[VNVideoCapture finishRecording] line 649 $ end emptying start buffer to equal current audio buffer
+349313 $ -[VNVideoCapture finishRecording] line 654 $ num audio buffers to crossfade: 10
+349313 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 0
+349313 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 1
+349313 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 2
+349314 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 3
+349314 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 4
+349314 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 5
+349314 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 6
+349314 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 7
+349314 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 8
+349314 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 9
+349314 $ -[VNVideoCapture finishRecording] line 702 $ clear current and start audio buffers
+349315 $ -[VNVideoCapture finishRecording] line 707 $ dispatch call delegate videoCaptureRecordingFinished
+349315 $ -[VNVideoCapture finishRecording] line 716 $ call writeToFile in background
+349315 $ __33-[VNVideoCapture finishRecording]_block_invoke line 711 $ delegate videoCaptureRecordingFinished
+349315 $ -[VNVideoCapture writeToFile] line 721 $ writeToFile
+349315 $ -[VNVideoCapture writeToFile] line 724 $ marking video writer as finished
+349316 $ -[VNVideoCapture writeToFile] line 729 $ finish writing asset w/ completion handler
+349317 $ -[VNVideoCapture writeToFile] line 743 $ stop running capture session
+349364 $ __29-[VNVideoCapture writeToFile]_block_invoke line 731 $ finish writing asset completion handler
+349860 $ -[VNVideoCapture sessionStopped:] line 999 $ session stopped
+349861 $ -[VNVideoCapture finishWriteToFile] line 867 $ finishWriteToFile
+349861 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+349861 $ -[VNVideoCapture finishWriteToFile] line 869 $ dispatch call delegate videoCaptureWriteToFileComplete
+349862 $ __35-[VNVideoCapture finishWriteToFile]_block_invoke line 873 $ delegate videoCaptureWriteToFileComplete
+349862 $ -[VNCaptureViewController previewAndBeginUpload] line 506 $ previewAndBeginUpload: /private/var/mobile/Applications/05F28061-7243-4F53-8A9B-0A74D20AC858/tmp/temp_record_1369231946.288154.mp4
+349883 $ -[VNCaptureViewController previewAndBeginUpload] line 512 $ movie player loadState: 0 --- playbackState: 0
+349883 $ -[VNCaptureViewController generateThumbnail] line 517 $ generating thumbnail loadState: 0 --- playbackState: 0
+349944 $ -[VNCaptureViewController generateThumbnail] line 519 $ thumbnail generated: <UIImage: 0x1e80a6a0>
+349944 $ -[VNCaptureViewController generateThumbnail] line 533 $ thumbnail generated
+349960 $ -[VNUploadOperation start] line 90 $ <VNUploadOperation: 0x1eb79dc0> - Starting upload
+390668 $ __26-[VNUploadOperation start]_block_invoke192 line 110 $ <VNUploadOperation: 0x1eb79dc0> - Saved video successfully
+391573 $ __26-[VNUploadOperation start]_block_invoke205 line 120 $ <VNUploadOperation: 0x1eb79dc0> - Saved thumbnail successfully
+399331 $ -[VNUploadOperation cancel] line 281 $ <VNUploadOperation: 0x1eb79dc0> - Cancelling upload
+399332 $ -[VNUploadManager removePendingPost:] line 396 $ Trying to depersist pending post (null)
+399342 $ -[VNAppDelegate promptForLocationServices] line 157 $ Device has been prompted for location services previously
+399650 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+399672 $ -[VNFeedTableViewController updatePlayer] line 613 $ most visible cell url: http://vines.s3.amazonaws.com/v/videos/E59DC0D1-A97A-453F-9D08-EF842ADB7DB6-10791-000001D43563FFFF_1.1.1.mp4?versionId=hWTQuYM7imIHefp319BmqTGMqjiV5uxX
+399823 $ __21-[VNVideoPlayer play]_block_invoke_2 line 210 $ active players: 1
+499287 $ __27-[VNAPIManager checkStatus]_block_invoke354 line 376 $ Couldn't check status — is EC2 down?
+499365 $ -[VNAppDelegate applicationDidBecomeActive:] line 138 $ FBSession state: 0
+501749 $ -[VNFeedTableViewController viewWillDisappear:] line 243 $ feed will disappear
+501795 $ -[VNVideoCapture reorientVideoOutput:flipped:] line 355 $ Device model: iPhone5,1
+501955 $ __30-[VNVideoPlayer releasePlayer]_block_invoke_2 line 717 $ active players: 0
+503246 $ -[VNVideoCapture sessionStarted:] line 995 $ session started
+503260 $ -[VNFeedTableViewController viewDidDisappear:] line 256 $ feed did disappear
+504180 $ -[VNVideoCapture startRecording] line 547 $ startRecording: 0.00
+507715 $ -[VNVideoCapture stopRecording] line 570 $ stopRecording: 3.51
+507724 $ -[VNVideoCapture handleVideoSampleBuffer:] line 1207 $ pause video recording
+507724 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1053 $ pause audio recording
+507755 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507770 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507793 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507821 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507840 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507863 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507889 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507910 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507933 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1165 $ capture extra audio for crossfade
+507980 $ -[VNVideoCapture handleAudioSampleBuffer:] line 1182 $ capture last audio sample for crossfade
+508515 $ -[VNVideoCapture finishRecording] line 619 $ finishRecording
+508515 $ -[VNVideoCapture finishRecording] line 624 $ appending last audio sample
+508515 $ -[VNVideoCapture finishRecording] line 628 $ done appending last audio sample
+508516 $ -[VNVideoCapture finishRecording] line 632 $ start emptying current audio buffer to equal start buffer
+508516 $ -[VNVideoCapture finishRecording] line 643 $ end emptying current audio buffer to equal start buffer
+508516 $ -[VNVideoCapture finishRecording] line 644 $ start emptying start buffer to equal current audio buffer
+508516 $ -[VNVideoCapture finishRecording] line 649 $ end emptying start buffer to equal current audio buffer
+508516 $ -[VNVideoCapture finishRecording] line 654 $ num audio buffers to crossfade: 10
+508516 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 0
+508516 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 1
+508516 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 2
+508516 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 3
+508516 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 4
+508516 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 5
+508516 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 6
+508517 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 7
+508517 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 8
+508517 $ -[VNVideoCapture finishRecording] line 690 $ appending buffer to audio writer: 9
+508517 $ -[VNVideoCapture finishRecording] line 702 $ clear current and start audio buffers
+508517 $ -[VNVideoCapture finishRecording] line 707 $ dispatch call delegate videoCaptureRecordingFinished
+508517 $ __33-[VNVideoCapture finishRecording]_block_invoke line 711 $ delegate videoCaptureRecordingFinished
+508518 $ -[VNVideoCapture finishRecording] line 716 $ call writeToFile in background
+508518 $ -[VNVideoCapture writeToFile] line 721 $ writeToFile
+508518 $ -[VNVideoCapture writeToFile] line 724 $ marking video writer as finished
+508518 $ -[VNVideoCapture writeToFile] line 729 $ finish writing asset w/ completion handler
+508522 $ -[VNVideoCapture writeToFile] line 743 $ stop running capture session
+508568 $ __29-[VNVideoCapture writeToFile]_block_invoke line 731 $ finish writing asset completion handler
+508982 $ -[VNVideoCapture sessionStopped:] line 999 $ session stopped
+508982 $ -[VNVideoCapture finishWriteToFile] line 867 $ finishWriteToFile
+508982 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+508983 $ -[VNVideoCapture finishWriteToFile] line 869 $ dispatch call delegate videoCaptureWriteToFileComplete
+508983 $ __35-[VNVideoCapture finishWriteToFile]_block_invoke line 873 $ delegate videoCaptureWriteToFileComplete
+508983 $ -[VNCaptureViewController previewAndBeginUpload] line 506 $ previewAndBeginUpload: /private/var/mobile/Applications/05F28061-7243-4F53-8A9B-0A74D20AC858/tmp/temp_record_1369232108.839623.mp4
+509003 $ -[VNCaptureViewController previewAndBeginUpload] line 512 $ movie player loadState: 0 --- playbackState: 0
+509003 $ -[VNCaptureViewController generateThumbnail] line 517 $ generating thumbnail loadState: 0 --- playbackState: 0
+509065 $ -[VNCaptureViewController generateThumbnail] line 519 $ thumbnail generated: <UIImage: 0x1eb84820>
+509065 $ -[VNCaptureViewController generateThumbnail] line 533 $ thumbnail generated
+509080 $ -[VNUploadOperation start] line 90 $ <VNUploadOperation: 0x1eb85b60> - Starting upload
+509167 $ -[VNFile request:didFailWithError:] line 79 $ Error: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo=0x1ec38670 {NSErrorFailingURLStringKey=https://vines.s3.amazonaws.com/videos%2F2013%2F05%2F22%2F04978F96-7B49-4627-9AEB-45A057283B14-10833-000001D9765D1E5A_1.1.1.mp4, NSErrorFailingURLKey=https://vines.s3.amazonaws.com/videos%2F2013%2F05%2F22%2F04978F96-7B49-4627-9AEB-45A057283B14-10833-000001D9765D1E5A_1.1.1.mp4, NSLocalizedDescription=The Internet connection appears to be offline., NSUnderlyingError=0x1ec38bf0 "The Internet connection appears to be offline."}
+509167 $ __26-[VNUploadOperation start]_block_invoke232 line 135 $ Error while uploading: Error Domain=NSURLErrorDomain Code=-1009 "The Internet connection appears to be offline." UserInfo=0x1ec38670 {NSErrorFailingURLStringKey=https://vines.s3.amazonaws.com/videos%2F2013%2F05%2F22%2F04978F96-7B49-4627-9AEB-45A057283B14-10833-000001D9765D1E5A_1.1.1.mp4, NSErrorFailingURLKey=https://vines.s3.amazonaws.com/videos%2F2013%2F05%2F22%2F04978F96-7B49-4627-9AEB-45A057283B14-10833-000001D9765D1E5A_1.1.1.mp4, NSLocalizedDescription=The Internet connection appears to be offline., NSUnderlyingError=0x1ec38bf0 "The Internet connection appears to be offline."}
+509167 $ -[VNUploadOperation fail] line 242 $ <VNUploadOperation: 0x1eb85b60> - Failing upload
+539990 $ __27-[VNAPIManager checkStatus]_block_invoke354 line 376 $ Couldn't check status — is EC2 down?
+593643 $ -[VNAppDelegate applicationDidBecomeActive:] line 138 $ FBSession state: 0
+599977 $ -[VNAPIManager checkForNotifications] line 303 $ Checking for notifications
+599979 $ -[VNAPIManager request:endpoint:parameters:authIfNeeded:success:error:failed:encoding:] line 550 $ >>> http GET https://api.vineapp.com/users/948713618134953984/pendingNotificationsCount  vine-session-id:948713618134953984-00251b78-3bb1-4aa3-849f-b26f08f7a5b3
+600301 $ __37-[VNAPIManager checkForNotifications]_block_invoke line 314 $ No new notifications
+633866 $ -[VNAppDelegate applicationDidBecomeActive:] line 138 $ FBSession state: 0
+642430 $ -[VNUploadOperation cancel] line 281 $ <VNUploadOperation: 0x1eb85b60> - Cancelling upload
+642430 $ -[VNUploadManager removePendingPost:] line 396 $ Trying to depersist pending post (null)
+642444 $ -[VNAppDelegate promptForLocationServices] line 157 $ Device has been prompted for location services previously
+642749 $ -[VNVideoCapture removeDraft] line 893 $ removeDraft
+642770 $ -[VNFeedTableViewController updatePlayer] line 613 $ most visible cell url: http://vines.s3.amazonaws.com/v/videos/E59DC0D1-A97A-453F-9D08-EF842ADB7DB6-10791-000001D43563FFFF_1.1.1.mp4?versionId=hWTQuYM7imIHefp319BmqTGMqjiV5uxX
+642957 $ __21-[VNVideoPlayer play]_block_invoke_2 line 210 $ active players: 1
